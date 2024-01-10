@@ -1,0 +1,23 @@
+[
+    {
+        "cats": [
+          {
+            "name": "Fluffy",
+            "species": "Persian"
+          },
+          {
+            "name": "Whiskers",
+            "species": "Siamese"
+          },
+          {
+            "name": "Mittens",
+            "species": "Maine Coon"
+          },
+          {
+            "name": "Shadow",
+            "species": "Ragdoll"
+          }
+        ]
+      }
+      
+]
